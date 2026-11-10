@@ -1,2 +1,6 @@
 Initial content
+<<<<<<< HEAD
 Remote change
+=======
+Local change
+>>>>>>> 084484d (Local commit)
